@@ -1,0 +1,7 @@
+thead {
+  background-color: darkgray;
+}
+
+tbody tr:nth-of-type(2n+1){
+  background-color: whitesmoke;
+}
